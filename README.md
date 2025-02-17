@@ -5,7 +5,7 @@
 
 This repository accompanies the [YouTube tutorial](https://www.youtube.com/@BahrainAI) demonstrating how to run a local large language model (LLM) using Hugging Face Transformers. The provided Python script implements a complete workflow for chat-style interactions with a locally stored model.
 
-[LLM MODEL](HuggingFaceTB/SmolLM2-1.7B-Instruct)
+[LLM MODEL](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct)
 
 ## 📚 Table of Contents
 - [Features](#-features)
